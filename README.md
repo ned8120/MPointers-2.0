@@ -28,7 +28,7 @@ El proyecto está diseñado para ejecutarse en entornos Linux y requiere:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/MPointers-2.0.git
+git clone https://github.com/ned8120/MPointers-2.0.git
 cd MPointers-2.0
 ```
 
